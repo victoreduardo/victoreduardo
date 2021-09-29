@@ -2,11 +2,18 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### About me
-Senior Software Engineer with strong experience on Ruby on Rails. Backend focus, but I work with HTML5, Javascript/jQuery, CSS3, EmberJS and Bootstrap on the front-end side.
+Software Engineer Specialist with over 7 years of experience using Ruby on Rails.
+I have a Bachelor's degree in Information System and a post-graduate degree in Software Quality Engineering.
+Currently, I'm studying Master in software engineering and love studying new technologies.
 
-Currently, I work with PostgreSQL and Redis, but I've worked with Oracle DB and MySQL. Tech Lover, I always like to learn about new tech, frameworks, gems, tools and design pattern. When I'm working I like write clean code, use a design pattern to get the best code and create a automated tests with RSpec and Pact.io. It's comfortable when I see clean code, but it's terrible when the code is not clean.
+My main tech stack consists of Ruby on Rails, JS, TS, PostgreSQL, EmberJS, CSS3, HTML5, Sidekiq, Redis, Scrum, TDD, RSpec, RSwag, FactoryBot, WebMock, Capybara, Pact.io, JSONAPI, Docker, Makefile, Git, Code Review, Compass, Rubocop, JSLint, SimpleCov, S3, Sentry, Splunk, SonarQube, Jenkins.
 
-Requirements gathering, development and maintenance of systems, support, training, management of tasks and staff; server maintenance; code versioning. Server configuration (nginx and docker) and maintenance. RESTful API. Componentization of modules with engines. Parallel execution with Sidekiq and Redis. Database model, mockups prototyping.
+I also like to train some colleagues to improve their RoR skill sets. It's amazing because I like to share my knowledge with someone. I'm a technical interviewer as well.
+
+I’ve been working as distributed teams for over 7 years, of those over 1 year working with colleagues from all over the world.
+
+Certificate:
+COBIT 5 Foundation, Professional Scrum Master I (PSM I), Information Security Foundation based on ISO/IEC 27001 and Privacy and Data Protection Foundation
 
 Languages and Tools:
 
