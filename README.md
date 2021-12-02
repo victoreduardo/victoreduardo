@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### About me
-Software Engineer Specialist with over 7 years of experience using Ruby on Rails.
+Specialist Software Engineer with over 7 years of experience using Ruby on Rails.
 I have a Bachelor's degree in Information System and a post-graduate degree in Software Quality Engineering.
 Currently, I'm studying Master in software engineering and love studying new technologies.
 
