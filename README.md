@@ -3,8 +3,7 @@
 
 ### About me
 Specialist Software Engineer with over 7 years of experience using Ruby on Rails.
-I have a Bachelor's degree in Information System and a post-graduate degree in Software Quality Engineering.
-Currently, I'm studying Master in software engineering and love studying new technologies.
+I have a Bachelor's degree in Information System, post-graduate degree in Software Quality Engineering and Master in software engineering and love studying new technologies.
 
 My main tech stack consists of Ruby on Rails, JS, TS, PostgreSQL, EmberJS, CSS3, HTML5, Sidekiq, Redis, Scrum, TDD, RSpec, RSwag, FactoryBot, WebMock, Capybara, Pact.io, JSONAPI, Docker, Makefile, Git, Code Review, Compass, Rubocop, JSLint, SimpleCov, S3, Sentry, Splunk, SonarQube, Jenkins.
 
