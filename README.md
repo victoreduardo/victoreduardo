@@ -2,14 +2,14 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### About me
-Specialist Software Engineer with over 7 years of experience using Ruby on Rails.
+Specialist Software Engineer with over 10 years of experience using Ruby on Rails.
 I have a Bachelor's degree in Information System, post-graduate degree in Software Quality Engineering and Master in software engineering and love studying new technologies.
 
 My main tech stack consists of Ruby on Rails, JS, TS, PostgreSQL, EmberJS, CSS3, HTML5, Sidekiq, Redis, Scrum, TDD, RSpec, RSwag, FactoryBot, WebMock, Capybara, Pact.io, JSONAPI, Docker, Makefile, Git, Code Review, Compass, Rubocop, JSLint, SimpleCov, S3, Sentry, Splunk, SonarQube, Jenkins.
 
 I also like to train some colleagues to improve their RoR skill sets. It's amazing because I like to share my knowledge with someone. I'm a technical interviewer as well.
 
-I’ve been working as distributed teams for over 7 years, of those over 1 year working with colleagues from all over the world.
+I’ve been working as distributed teams for over 9 years, of those over 4 year working with colleagues from all over the world.
 
 Certificate:
 COBIT 5 Foundation, Professional Scrum Master I (PSM I), Information Security Foundation based on ISO/IEC 27001 and Privacy and Data Protection Foundation
