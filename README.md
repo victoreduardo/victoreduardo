@@ -2,17 +2,18 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### About me
-Specialist Software Engineer with over 10 years of experience using Ruby on Rails.
-I have a Bachelor's degree in Information System, post-graduate degree in Software Quality Engineering and Master in software engineering and love studying new technologies.
+Staff-level Ruby on Rails engineer with 10+ years of experience building, scaling, and owning production systems end to end.
 
-My main tech stack consists of Ruby on Rails, JS, TS, PostgreSQL, EmberJS, CSS3, HTML5, Sidekiq, Redis, Scrum, TDD, RSpec, RSwag, FactoryBot, WebMock, Capybara, Pact.io, JSONAPI, Docker, Makefile, Git, Code Review, Compass, Rubocop, JSLint, SimpleCov, S3, Sentry, Splunk, SonarQube, Jenkins.
+I focus on high-impact backend work: performance optimization, background processing, database architecture, and API design. I’ve led large refactors, zero-downtime migrations, and cost-reduction initiatives on long-lived Rails codebases.
 
-I also like to train some colleagues to improve their RoR skill sets. It's amazing because I like to share my knowledge with someone. I'm a technical interviewer as well.
+Strong believer in The Rails Way — simple abstractions, convention over configuration, and compounding technical decisions. I enjoy owning the hardest problems, reviewing critical PRs, and shipping reliable systems that scale.
 
-I’ve been working as distributed teams for over 9 years, of those over 4 year working with colleagues from all over the world.
+I work comfortably in distributed, async-first teams, mentor other engineers through code review and pairing, and regularly act as a technical interviewer. I also build and operate my own SaaS products, owning everything from code to production.
+
+Always curious, always learning — especially about Rails internals, system performance, and practical uses of AI to improve how we build and ship software.
 
 Certificate:
-COBIT 5 Foundation, Professional Scrum Master I (PSM I), Information Security Foundation based on ISO/IEC 27001 and Privacy and Data Protection Foundation
+2x AWS, COBIT 5 Foundation, Professional Scrum Master I (PSM I), Information Security Foundation based on ISO/IEC 27001 and Privacy and Data Protection Foundation.
 
 Languages and Tools:
 
